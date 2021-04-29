@@ -41,7 +41,7 @@ src/main/java/cadastroUsuarios/CadastroUsuarios.</p>
 <p>Além disto é bom ter um editor para trabalhar com o código como 
 <a href="https://www.jetbrains.com/pt-br/idea/download/#section=windows">IntelliJ</a> ou outra IDE que rode Java.</p>
 
-## ✅ Tecnologias utlizadas
+## ✅ Tecnologias utilizadas
 - [Java](https://www.java.com/pt-BR/) 
 - [JUnit](https://junit.org/junit4/) 
 - [MySql](https://www.mysql.com/) 
