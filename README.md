@@ -10,7 +10,7 @@ Id, Nome, email, Senha e Data de cadastro </p>
 <p> • 1 Cadastrar </p>
 <p> • 2 Procurar </p>
 <p> • 3 Alterar </p>
-<p> • 4 excluir </p>
+<p> • 4 Excluir </p>
 
 <p>Criar uma classe de testes que usa o framework do  Junit para testar maior parte do código</p>
 
