@@ -58,7 +58,7 @@ e paciência.
 ## 👩‍💻 Autora
 
 <a href="https://www.linkedin.com/in/nayalla-lima/">
- <img style="border-radius: 50%;" src="https://media-exp1.licdn.com/dms/image/C4E03AQF2CoYQ5p5hLg/profile-displayphoto-shrink_800_800/0/1609244458047?e=1621468800&v=beta&t=q4Zr04N_58RRGnCLZBWU78OXI7TP4N8A08uvc9Pbuow" width="100px;" alt="foto de Nayalla Lima"/>
+ <img style="border-radius: 50%;" src="https://media-exp1.licdn.com/dms/image/C4E03AQF2CoYQ5p5hLg/profile-displayphoto-shrink_200_200/0/1609244458047?e=1628726400&v=beta&t=ZWKWqKjkEkZjqMO9oH_3dAwmt-XTL20VTzsQDZ38Nn4" width="100px;" alt="foto de Nayalla Lima"/>
  <br />
 <b>Nayalla Lima</b></a> <a href="https://www.linkedin.com/in/nayalla-lima/">🚀</a><br />
 Feito com 💜️ por Nayalla Lima
